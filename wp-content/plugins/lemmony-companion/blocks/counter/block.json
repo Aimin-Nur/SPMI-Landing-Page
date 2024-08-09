@@ -1,0 +1,74 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "lemmony-companion/counter",
+  "version": "1.0",
+  "title": "Counter",
+  "category": "media",
+  "description": "Animated counting numbers by Lemmony",
+  "keywords": [
+    "counter",
+    "lemmony",
+    "shufflehound"
+  ],
+  "attributes": {
+    "startNumber": {
+      "type": "string",
+      "default": "0",
+      "source": "attribute",
+      "selector": ".lemmony-counter-wrapper",
+      "attribute": "data-start"
+    },
+    "endNumber": {
+      "type": "string",
+      "default": "1234",
+      "source": "attribute",
+      "selector": ".lemmony-counter-wrapper",
+      "attribute": "data-end"
+    },
+    "duration": {
+      "type": "string",
+      "default": "2",
+      "source": "attribute",
+      "selector": ".lemmony-counter-wrapper",
+      "attribute": "data-duration"
+    },
+    "suffix": {
+      "type": "string",
+      "default": "",
+      "source": "text",
+      "selector": ".lemmony-counter-suffix"
+    },
+    "textAlign": {
+      "type": "string"
+    }
+  },
+  "example": {
+    "attributes": {
+      "starting_number": "1234"
+    }
+  },
+  "supports": {
+    "anchor": true,
+    "align": false,
+    "color": {
+      "background": false
+    },
+    "typography": {
+      "fontSize": true,
+      "lineHeight": true,
+      "__experimentalFontFamily": true,
+      "__experimentalFontWeight": true,
+      "__experimentalFontStyle": true,
+      "__experimentalTextTransform": true,
+      "__experimentalTextDecoration": true,
+      "__experimentalLetterSpacing": true
+    },
+    "spacing": {
+      "padding": true,
+      "margin": true
+    }
+  },
+  "textdomain": "lemmony-companion",
+  "editorScript": "file:./index.js"
+}

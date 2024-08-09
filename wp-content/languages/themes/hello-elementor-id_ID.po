@@ -1,0 +1,344 @@
+# Translation of Themes - Hello Elementor in Indonesian
+# This file is distributed under the same license as the Themes - Hello Elementor package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-10-28 10:38:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Hello Elementor\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Hello Elementor"
+msgstr "Hello Elementor"
+
+#: includes/settings-functions.php:19
+msgid "Theme Settings"
+msgstr "Pengaturan Tema"
+
+#: includes/settings-functions.php:18 assets/js/hello-admin.js:140
+#: assets/js/hello-admin.js:234
+msgid "Hello Theme Settings"
+msgstr "Pengaturan Tema Hello"
+
+#. translators: %s: Link that opens Elementor's "Site Identity" panel.
+#: includes/settings/settings-footer.php:375
+#: includes/settings/settings-header.php:365
+#: includes/settings/settings-header.php:382
+msgid "Go to <a href=\"%s\">Site Identity</a> to manage your site's title"
+msgstr "Buka <a href=\"%s\">Site Identity</a> untuk mengelola judul situs Anda"
+
+#: includes/settings/settings-footer.php:594
+#: includes/settings/settings-header.php:628
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "Lewati ke konten"
+
+#: includes/settings/settings-header.php:517
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: includes/settings/settings-footer.php:604
+msgid "Create Footer"
+msgstr "Buat Footer"
+
+#: includes/settings/settings-footer.php:492
+#: includes/settings/settings-header.php:560
+msgid "Color"
+msgstr "Warna"
+
+#: includes/settings/settings-footer.php:534
+msgid "All rights reserved"
+msgstr "Hak Cipta Dilindungi."
+
+#: includes/settings/settings-header.php:541
+msgid "None"
+msgstr "Tidak ada"
+
+#: includes/settings/settings-header.php:574
+msgid "Toggle Color"
+msgstr "Beralih Warna"
+
+#: includes/settings/settings-footer.php:344
+#: includes/settings/settings-footer.php:402
+#: includes/settings/settings-footer.php:541
+#: includes/settings/settings-header.php:346
+#: includes/settings/settings-header.php:416
+msgid "Text Color"
+msgstr "Warna Teks"
+
+#: includes/settings/settings-footer.php:360
+#: includes/settings/settings-footer.php:417
+#: includes/settings/settings-footer.php:504
+#: includes/settings/settings-footer.php:556
+#: includes/settings/settings-header.php:362
+#: includes/settings/settings-header.php:431
+#: includes/settings/settings-header.php:589
+msgid "Typography"
+msgstr "Penulisan"
+
+#: includes/settings/settings-footer.php:303
+#: includes/settings/settings-header.php:305
+msgid "Title"
+msgstr "Judul"
+
+#: includes/settings/settings-footer.php:302
+#: includes/settings/settings-header.php:304
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/settings/settings-footer.php:298
+#: includes/settings/settings-header.php:300
+msgid "Type"
+msgstr "Jenis"
+
+#: includes/settings/settings-footer.php:275
+#: includes/settings/settings-header.php:270
+msgid "Background"
+msgstr "Latar Belakang"
+
+#: includes/settings/settings-footer.php:223
+#: includes/settings/settings-header.php:208
+msgid "Content Width"
+msgstr "Lebar Konten "
+
+#: includes/settings/settings-footer.php:211
+#: includes/settings/settings-header.php:196
+msgid "Full Width"
+msgstr "Lebar Penuh"
+
+#: includes/settings/settings-footer.php:210
+#: includes/settings/settings-header.php:195
+msgid "Boxed"
+msgstr "Dalam Kotak"
+
+#: includes/settings/settings-footer.php:208
+#: includes/settings/settings-header.php:193
+msgid "Width"
+msgstr "Lebar"
+
+#: includes/settings/settings-footer.php:126
+#: includes/settings/settings-header.php:111
+msgid "Centered"
+msgstr "Rata Tengah"
+
+#: includes/settings/settings-footer.php:122
+#: includes/settings/settings-header.php:107
+msgid "Inverted"
+msgstr "Terbalik"
+
+#: includes/settings/settings-footer.php:313
+#: includes/settings/settings-header.php:315
+msgid "Logo Width"
+msgstr "Lebar Logo"
+
+#: includes/settings/settings-footer.php:453
+#: includes/settings/settings-header.php:474
+msgid "— Select a Menu —"
+msgstr "— Pilih Menu —"
+
+#: includes/settings/settings-footer.php:130
+#: includes/settings/settings-header.php:115
+msgid "Default"
+msgstr "Bawaan"
+
+#: includes/settings/settings-footer.php:119
+#: includes/settings/settings-header.php:104
+msgid "Layout"
+msgstr "Tata Letak"
+
+#: includes/settings/settings-footer.php:88
+#: includes/settings/settings-footer.php:516
+msgid "Copyright"
+msgstr "Hak Cipta"
+
+#: includes/settings/settings-footer.php:76
+#: includes/settings/settings-footer.php:444
+#: includes/settings/settings-footer.php:472
+#: includes/settings/settings-header.php:75
+#: includes/settings/settings-header.php:458
+#: includes/settings/settings-header.php:493
+#: template-parts/dynamic-header.php:65
+msgid "Menu"
+msgstr "Menu"
+
+#: includes/settings/settings-footer.php:64
+#: includes/settings/settings-footer.php:392
+#: includes/settings/settings-header.php:64
+#: includes/settings/settings-header.php:399
+msgid "Tagline"
+msgstr "Slogan"
+
+#: includes/settings/settings-footer.php:55
+#: includes/settings/settings-footer.php:67
+#: includes/settings/settings-footer.php:79
+#: includes/settings/settings-footer.php:91
+#: includes/settings/settings-header.php:56
+#: includes/settings/settings-header.php:67
+#: includes/settings/settings-header.php:78
+msgid "Hide"
+msgstr "Sembunyikan"
+
+#: includes/settings/settings-footer.php:54
+#: includes/settings/settings-footer.php:66
+#: includes/settings/settings-footer.php:78
+#: includes/settings/settings-footer.php:90
+#: includes/settings/settings-header.php:55
+#: includes/settings/settings-header.php:66
+#: includes/settings/settings-header.php:77
+msgid "Show"
+msgstr "Tampilkan"
+
+#: includes/settings/settings-footer.php:52
+#: includes/settings/settings-footer.php:288
+#: includes/settings/settings-header.php:53
+#: includes/settings/settings-header.php:283
+msgid "Site Logo"
+msgstr "Logo Situs"
+
+#: functions.php:30 includes/settings/settings-header.php:45
+msgid "Header"
+msgstr "Header"
+
+#: includes/admin-functions.php:132
+msgid "Get Elementor"
+msgstr "Dapatkan Elementor"
+
+#: functions.php:31 includes/settings/settings-footer.php:44
+msgid "Footer"
+msgstr "Footer"
+
+#: includes/settings/settings-header.php:513
+msgid "Menu Layout"
+msgstr "Tata Letak Menu"
+
+#: includes/settings/settings-header.php:546
+msgid "Breakpoint"
+msgstr "Titik Putus"
+
+#: includes/settings/settings-header.php:625
+msgid "Create a custom header with multiple options"
+msgstr "Buat sebuah kustom header dengan beragam pilihan"
+
+#: includes/settings/settings-footer.php:592
+#: includes/settings/settings-header.php:626
+msgid "Upgrade to Elementor Pro and enjoy free design and many more features"
+msgstr "Upgrade ke Elementor Pro dan nikmati desain gratis serta banyak fitur lainnya"
+
+#: includes/settings/settings-footer.php:591
+msgid "Create a custom footer with multiple options"
+msgstr "Buat sebuah kustom footer dengan beragam pilihan "
+
+#: includes/settings/settings-footer.php:484
+#: includes/settings/settings-header.php:505
+msgid "Changes will be reflected in the preview only after the page reloads."
+msgstr "Perubahan akan terlihat di pratinjau hanya setelah halaman dimuat ulang."
+
+#: includes/settings/settings-footer.php:476
+#: includes/settings/settings-header.php:497
+msgid "Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to manage your menus."
+msgstr "Pergi ke <a href=\"%s\" target=\"_blank\">Menu layar</a> untuk mengelola menu Anda."
+
+#: includes/settings/settings-footer.php:463
+#: includes/settings/settings-header.php:484
+msgid "Go to <a href=\"%s\" target=\"_blank\">Menus screen</a> to create one."
+msgstr "Pergi ke <a href=\"%s\" target=\"_blank\">Menu layar</a> untuk buat baru."
+
+#: includes/settings/settings-footer.php:463
+#: includes/settings/settings-header.php:484
+msgid "There are no menus in your site."
+msgstr "Tidak ada menu di situs Anda."
+
+#: includes/settings/settings-header.php:638
+msgid "Create Header"
+msgstr "Buat Header"
+
+#: includes/settings/settings-header.php:518
+msgid "Dropdown"
+msgstr "Tarik Turun"
+
+#. translators: %s: Link that opens Elementor's "Site Identity" panel.
+#: includes/settings/settings-footer.php:431
+#: includes/settings/settings-header.php:445
+msgid "Go to <a href=\"%s\">Site Identity</a> to manage your site's tagline"
+msgstr "Buka <a href=\"%s\">Identitas Situs</a> untuk mengelola tagline situs Anda"
+
+#. translators: %s: Link that opens Elementor's "Site Identity" panel.
+#: includes/settings/settings-footer.php:316
+#: includes/settings/settings-header.php:318
+msgid "Go to <a href=\"%s\">Site Identity</a> to manage your site's logo"
+msgstr "Buka <a href=\"%s\">Identitas Situs</a> untuk mengelola logo situs Anda"
+
+#: includes/admin-functions.php:135
+msgid "Thanks for installing the Hello Theme!"
+msgstr "Terimakasih telah menginstall Hello Theme!"
+
+#: includes/admin-functions.php:51
+#: includes/customizer/customizer-action-links.php:58
+#: includes/customizer/customizer-action-links.php:60
+#: assets/js/hello-admin.js:173 assets/js/hello-admin.js:175
+msgid "Install Elementor"
+msgstr "Install Elementor"
+
+#: includes/admin-functions.php:42
+#: includes/customizer/customizer-action-links.php:77
+#: includes/customizer/customizer-action-links.php:79
+#: assets/js/hello-admin.js:181 assets/js/hello-admin.js:183
+msgid "Activate Elementor"
+msgstr "Aktifkan Elementor"
+
+#: comments.php:32
+msgctxt "comments title"
+msgid "One Response"
+msgstr "satu Respon"
+
+#: template-parts/search.php:43
+msgid "It seems we can't find what you're looking for."
+msgstr "Sepertinya kami tidak dapat menemukan yang Anda cari."
+
+#: template-parts/search.php:17
+msgid "Search results for: "
+msgstr "Hasil pencarian:"
+
+#: template-parts/dynamic-footer.php:34 template-parts/dynamic-header.php:40
+#: template-parts/header.php:30
+msgid "Home"
+msgstr "Beranda"
+
+#: template-parts/single.php:31
+msgid "Tagged "
+msgstr "Ditandai"
+
+#: template-parts/404.php:21
+msgid "It looks like nothing was found at this location."
+msgstr "Sepertinya tidak ada yang ditemukan di lokasi ini."
+
+#: template-parts/404.php:16
+msgid "The page can&rsquo;t be found."
+msgstr "Halaman tidak dapat ditemukan."
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://elementor.com/hello-theme/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/hello-theme/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Elementor Team"
+msgstr "Tim Elementor"

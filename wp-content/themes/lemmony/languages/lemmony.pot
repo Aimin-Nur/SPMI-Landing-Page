@@ -1,0 +1,1246 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: inc/companion.php:60
+msgid "Importing..."
+msgstr ""
+
+#: inc/companion.php:60
+msgid "Done!"
+msgstr ""
+
+#: inc/companion.php:79 inc/companion.php:115
+msgid "Install"
+msgstr ""
+
+#: inc/companion.php:79 inc/companion.php:168
+msgid "Lemmony Companion"
+msgstr ""
+
+#: inc/companion.php:79
+msgid "to import"
+msgstr ""
+
+#: inc/companion.php:86
+msgid "Reset import"
+msgstr ""
+
+#: inc/companion.php:116
+msgid "Installing..."
+msgstr ""
+
+#: inc/companion.php:117
+msgid "Installed!"
+msgstr ""
+
+#: inc/companion.php:120 inc/companion.php:175
+msgid "Activate"
+msgstr ""
+
+#: inc/companion.php:121
+msgid "Activating..."
+msgstr ""
+
+#: inc/companion.php:122
+msgid "Activated!"
+msgstr ""
+
+#: inc/companion.php:141
+msgid "Lemmony Theme Almost Ready!"
+msgstr ""
+
+#: inc/companion.php:145
+msgid "the Lemmony Companion plugin to get most of the theme."
+msgstr ""
+
+#: inc/companion.php:147
+msgid "It includes custom blocks and other essential features."
+msgstr ""
+
+#: inc/companion.php:152
+msgid "Now"
+msgstr ""
+
+#: inc/companion.php:160
+msgid "Please install the plugin manually:"
+msgstr ""
+
+#: inc/companion.php:162
+msgid "Please activate the plugin manually:"
+msgstr ""
+
+#: inc/companion.php:167
+msgid "Go to"
+msgstr ""
+
+#: inc/companion.php:167
+msgid "Plugins > Add New"
+msgstr ""
+
+#: inc/companion.php:168
+msgid "search for"
+msgstr ""
+
+#: inc/companion.php:170
+msgid "and click on"
+msgstr ""
+
+#: inc/companion.php:170
+msgid "Install Now"
+msgstr ""
+
+#: inc/companion.php:174
+msgid "After installation is done click on"
+msgstr ""
+
+#: inc/companion.php:174
+msgid "Then click on"
+msgstr ""
+
+#: inc/companion.php:450
+msgid "Latest update"
+msgstr ""
+
+#: inc/companion.php:452
+msgid "Previous update"
+msgstr ""
+
+#: inc/dashboard.php:17
+msgid "Lemmony Dashboard"
+msgstr ""
+
+#: inc/dashboard.php:34
+msgid "PHP version below minimum"
+msgstr ""
+
+#: inc/dashboard.php:35
+msgid ""
+"The version of PHP on your system is below the minimum required by the "
+"theme. Please upgrade to at least"
+msgstr ""
+
+#: inc/dashboard.php:35 inc/dashboard.php:43 inc/dashboard.php:51
+#: inc/dashboard.php:60
+msgid "version"
+msgstr ""
+
+#: inc/dashboard.php:42
+msgid "WordPress version below minimum"
+msgstr ""
+
+#: inc/dashboard.php:43
+msgid ""
+"The version of WordPress on your system is below the minimum required by the "
+"theme. Please upgrade to at least"
+msgstr ""
+
+#: inc/dashboard.php:50
+msgid "Theme update available"
+msgstr ""
+
+#: inc/dashboard.php:51
+msgid "Lemmony"
+msgstr ""
+
+#: inc/dashboard.php:51 inc/dashboard.php:60
+msgid "update is available"
+msgstr ""
+
+#: inc/dashboard.php:52 inc/dashboard.php:61
+msgid "Open Updates"
+msgstr ""
+
+#: inc/dashboard.php:59
+msgid "Plugin update available"
+msgstr ""
+
+#: inc/dashboard.php:60
+msgid "Lemmony companion"
+msgstr ""
+
+#: inc/dashboard.php:68
+msgid "All set! Theme is installed and ready"
+msgstr ""
+
+#: inc/dashboard.php:69
+msgid "Enjoy Lemmony theme!"
+msgstr ""
+
+#: inc/dashboard.php:82 inc/dashboard.php:92
+msgid "Import demo content"
+msgstr ""
+
+#: inc/dashboard.php:83 inc/dashboard.php:93
+msgid ""
+"Import Lemmony demo content to get quick start on your website. What will be "
+"imported: extra pages and posts with images"
+msgstr ""
+
+#: inc/dashboard.php:84 inc/dashboard.php:94
+msgid "Import"
+msgstr ""
+
+#: inc/dashboard.php:101
+msgid "Content imported"
+msgstr ""
+
+#: inc/dashboard.php:102
+msgid ""
+"Enjoy the content! More content available under block editor patterns section"
+msgstr ""
+
+#: inc/dashboard.php:112
+msgid "Getting started video"
+msgstr ""
+
+#: inc/dashboard.php:121
+msgid "Popular Questions"
+msgstr ""
+
+#: inc/dashboard.php:127
+msgid "How to edit the Lemmony theme?"
+msgstr ""
+
+#: inc/dashboard.php:130
+msgid "Most of our theme content can be edited under"
+msgstr ""
+
+#: inc/dashboard.php:131
+msgid "Appearance > Editor"
+msgstr ""
+
+#: inc/dashboard.php:132
+msgid "There you can change our"
+msgstr ""
+
+#: inc/dashboard.php:132
+msgid "Templates"
+msgstr ""
+
+#: inc/dashboard.php:132
+msgid "(like the front page, categories, etc) and"
+msgstr ""
+
+#: inc/dashboard.php:133
+msgid "Templates Parts"
+msgstr ""
+
+#: inc/dashboard.php:133
+msgid "(like header, footer, and sidebar)"
+msgstr ""
+
+#: inc/dashboard.php:135 patterns/pages-front.php:181
+#: patterns/pages-front.php:199 patterns/pages-services.php:95
+#: patterns/services-with-images.php:83 patterns/services-with-spinner.php:49
+#: patterns/services-with-spinner.php:67
+msgid "Learn more"
+msgstr ""
+
+#: inc/dashboard.php:142
+msgid ""
+"Why the block editor displays multiple \"Your site doesn’t include support "
+"for the Icon block\" notices?"
+msgstr ""
+
+#: inc/dashboard.php:145
+msgid ""
+"Lemmony theme needs companion plugin to work correctly. Please install and "
+"activate it above"
+msgstr ""
+
+#: inc/dashboard.php:151
+msgid "What is the best WordPress version to use Lemmony on?"
+msgstr ""
+
+#: inc/dashboard.php:154
+msgid "For the best experience we recommend using WordPress 6.1 or 6.2"
+msgstr ""
+
+#: inc/dashboard.php:169
+msgid "Support Forum"
+msgstr ""
+
+#: inc/dashboard.php:172
+msgid "Let us know of any issues with the theme"
+msgstr ""
+
+#: inc/dashboard.php:187
+msgid "Main Website"
+msgstr ""
+
+#: inc/dashboard.php:190
+msgid "Explore all of our themes and services"
+msgstr ""
+
+#: inc/dashboard.php:198
+msgid "Child themes"
+msgstr ""
+
+#: inc/dashboard.php:204 inc/dashboard.php:208
+msgid "Lemmony Agency (soon)"
+msgstr ""
+
+#: inc/dashboard.php:211 inc/dashboard.php:225
+msgid "This is Lemmony child demo"
+msgstr ""
+
+#: inc/dashboard.php:218 inc/dashboard.php:222
+msgid "Lemmony Magazine (soon)"
+msgstr ""
+
+#: inc/setup.php:111
+msgid "Lemmony Patterns"
+msgstr ""
+
+#: inc/setup.php:117
+msgid "Lemmony Pages"
+msgstr ""
+
+#: inc/setup.php:130
+msgid "Dot Seperators"
+msgstr ""
+
+#: inc/setup.php:139
+msgid "Boxes"
+msgstr ""
+
+#: inc/setup.php:148
+msgid "Large"
+msgstr ""
+
+#: inc/setup.php:157 inc/setup.php:166 inc/setup.php:175
+msgid "Button"
+msgstr ""
+
+#: inc/setup.php:184
+msgid "Border & Radius"
+msgstr ""
+
+#: inc/setup.php:193
+msgid "Hover Zoom"
+msgstr ""
+
+#: inc/setup.php:201 inc/setup.php:209
+msgid "Hover Background"
+msgstr ""
+
+#: inc/setup.php:217
+msgid "Replies with BG"
+msgstr ""
+
+#: inc/setup.php:225
+msgid "With Icon"
+msgstr ""
+
+#: inc/setup.php:233
+msgid "With Border"
+msgstr ""
+
+#: inc/setup.php:240
+msgid "Logos Only Small"
+msgstr ""
+
+#: patterns/404.php:15
+msgid "Sorry! The Page Was Not Found"
+msgstr ""
+
+#: patterns/404.php:19
+msgid "The page you're looking for is not available right now"
+msgstr ""
+
+#: patterns/404.php:25
+msgid "Back to homepage"
+msgstr ""
+
+#: patterns/cta-split.php:15 patterns/pages-front.php:283
+msgid "Maybe Try to Include a"
+msgstr ""
+
+#: patterns/cta-split.php:15 patterns/pages-front.php:283
+msgid "Little Footnote?"
+msgstr ""
+
+#: patterns/cta-split.php:29 patterns/pages-about.php:158
+#: patterns/pages-about.php:180 patterns/pages-front.php:297
+#: patterns/pages-services.php:39 patterns/services-with-images.php:27
+#: patterns/services-with-stats.php:36 patterns/services-with-stats.php:58
+msgid "It's always wise to"
+msgstr ""
+
+#: patterns/cta-split.php:29 patterns/pages-front.php:297
+msgid "add information in chunks."
+msgstr ""
+
+#: patterns/cta-split.php:29 patterns/pages-front.php:297
+msgid ""
+"That way your website users will find it easier to digest content on your "
+"site."
+msgstr ""
+
+#: patterns/cta-split.php:35 patterns/gallery-sticky.php:49
+#: patterns/hero-with-cta.php:24 patterns/hero.php:84
+#: patterns/pages-about.php:100 patterns/pages-about.php:214
+#: patterns/pages-front.php:84 patterns/pages-front.php:303
+#: patterns/pages-front.php:434 patterns/pages-front.php:675
+#: patterns/pages-services.php:251 patterns/sercices-with-grid.php:147
+#: patterns/services-with-stats.php:92 patterns/sidebar.php:32
+msgid "Explore theme"
+msgstr ""
+
+#: patterns/footer.php:13
+msgid "Ready to Build Your Next"
+msgstr ""
+
+#: patterns/footer.php:13
+msgid "Site?"
+msgstr ""
+
+#: patterns/footer.php:20
+msgid "Download theme"
+msgstr ""
+
+#: patterns/footer.php:37
+msgid "WordPress"
+msgstr ""
+
+#: patterns/footer.php:37
+msgid "Block Builder"
+msgstr ""
+
+#: patterns/footer.php:37
+msgid "Theme."
+msgstr ""
+
+#: patterns/footer.php:49
+msgid "Useful Links"
+msgstr ""
+
+#: patterns/footer.php:53 patterns/hero-with-title-alt.php:11
+#: patterns/pages-about.php:11
+msgid "About us"
+msgstr ""
+
+#: patterns/footer.php:57 patterns/hero-with-title.php:11
+#: patterns/pages-services.php:11
+msgid "Services"
+msgstr ""
+
+#: patterns/footer.php:61 patterns/gallery-sticky.php:16
+#: patterns/pages-front.php:642 patterns/pages-gallery.php:15
+msgid "Gallery"
+msgstr ""
+
+#: patterns/footer.php:65
+msgid "Blog Articles"
+msgstr ""
+
+#: patterns/footer.php:75 patterns/header.php:31
+#: patterns/pages-contacts.php:11 patterns/services-with-contacts.php:11
+msgid "Contact us"
+msgstr ""
+
+#: patterns/footer.php:79
+msgid "Contact us page"
+msgstr ""
+
+#: patterns/footer.php:83
+msgid "hello@company.com"
+msgstr ""
+
+#: patterns/footer.php:87
+msgid "+77&nbsp; 700 877 39"
+msgstr ""
+
+#: patterns/footer.php:97
+msgid "Socials"
+msgstr ""
+
+#: patterns/footer.php:101
+msgid "Twitter"
+msgstr ""
+
+#: patterns/footer.php:105
+msgid "YouTube"
+msgstr ""
+
+#: patterns/footer.php:109
+msgid "Instagram"
+msgstr ""
+
+#: patterns/footer.php:127
+msgid "© 2023. All rights reserved."
+msgstr ""
+
+#: patterns/footer.php:133
+msgid "Theme developed by"
+msgstr ""
+
+#: patterns/footer.php:133
+msgid "Shufflehound"
+msgstr ""
+
+#: patterns/gallery-sticky.php:20 patterns/pages-front.php:646
+#: patterns/pages-gallery.php:19
+msgid "Showcase Your Best Work"
+msgstr ""
+
+#: patterns/gallery-sticky.php:24 patterns/pages-front.php:650
+msgid ""
+"Handpick the best of your offerings and let them do the talking. Try to "
+"showcase the theme from the best possible angle."
+msgstr ""
+
+#: patterns/gallery-sticky.php:40 patterns/pages-front.php:666
+#: patterns/pages-gallery.php:39
+msgid "Completed Projects"
+msgstr ""
+
+#: patterns/gallery-sticky.php:64 patterns/pages-front.php:690
+#: patterns/pages-gallery.php:68 patterns/pages-gallery.php:84
+#: patterns/pages-gallery.php:112
+msgid "Photography"
+msgstr ""
+
+#: patterns/gallery-sticky.php:68 patterns/pages-front.php:694
+#: patterns/pages-gallery.php:88
+msgid "Massive Gray Walls"
+msgstr ""
+
+#: patterns/gallery-sticky.php:78 patterns/pages-front.php:704
+#: patterns/pages-gallery.php:98
+msgid "Architecture"
+msgstr ""
+
+#: patterns/gallery-sticky.php:82 patterns/pages-front.php:708
+#: patterns/pages-gallery.php:102
+msgid "Spiral Stairs Garden"
+msgstr ""
+
+#: patterns/gallery-sticky.php:92 patterns/pages-front.php:718
+#: patterns/pages-gallery.php:54
+msgid "Furniture Design"
+msgstr ""
+
+#: patterns/gallery-sticky.php:96 patterns/pages-front.php:722
+#: patterns/pages-gallery.php:58
+msgid "Minimalist Chair"
+msgstr ""
+
+#: patterns/hero-with-cta.php:11 patterns/pages-about.php:87
+#: patterns/pages-front.php:421 patterns/title.php:10
+msgid "Helpful block"
+msgstr ""
+
+#: patterns/hero-with-cta.php:15 patterns/pages-about.php:91
+#: patterns/pages-front.php:425 patterns/title.php:14
+msgid "Some Useful Call to Action Section"
+msgstr ""
+
+#: patterns/hero-with-cta.php:19 patterns/pages-about.php:95
+#: patterns/pages-front.php:429 patterns/title.php:18
+msgid ""
+"Don’t shy away from using this helpful block to guide your website users to "
+"useful pages. Be the guide that they deserve!"
+msgstr ""
+
+#: patterns/hero-with-cta.php:42 patterns/pages-about.php:118
+#: patterns/pages-front.php:452
+msgid "Mr. Spaceman"
+msgstr ""
+
+#: patterns/hero-with-cta.php:46 patterns/pages-about.php:122
+#: patterns/pages-front.php:456
+msgid "Hey Lemmony, where to next??"
+msgstr ""
+
+#: patterns/hero-with-list-alt.php:25 patterns/hero-with-list.php:25
+#: patterns/pages-front.php:335 patterns/pages-services.php:353
+#: patterns/post-content.php:32
+msgid "Bullet points"
+msgstr ""
+
+#: patterns/hero-with-list-alt.php:29 patterns/hero-with-list.php:29
+#: patterns/pages-front.php:339 patterns/pages-services.php:357
+msgid "Check the Most Important Facts"
+msgstr ""
+
+#: patterns/hero-with-list-alt.php:33 patterns/pages-services.php:361
+msgid ""
+"The more you tell about your service or project, the easier your client's "
+"decision will be. We'll go first, wish us luck!"
+msgstr ""
+
+#: patterns/hero-with-list-alt.php:46 patterns/hero-with-list.php:42
+#: patterns/pages-front.php:352 patterns/pages-services.php:374
+msgid "Multiple block patterns included"
+msgstr ""
+
+#: patterns/hero-with-list-alt.php:60 patterns/hero-with-list.php:56
+#: patterns/pages-front.php:366 patterns/pages-services.php:388
+msgid "Multiple fonts included"
+msgstr ""
+
+#: patterns/hero-with-list-alt.php:74 patterns/hero-with-list.php:70
+#: patterns/pages-front.php:380 patterns/pages-services.php:402
+msgid "Lemmony icon block"
+msgstr ""
+
+#: patterns/hero-with-list-alt.php:88 patterns/hero-with-list.php:84
+#: patterns/pages-front.php:394 patterns/pages-services.php:416
+msgid "Lemmony auto write block"
+msgstr ""
+
+#: patterns/hero-with-list.php:99 patterns/pages-front.php:409
+msgid "Need more juicy bullet points? Visit"
+msgstr ""
+
+#: patterns/hero-with-list.php:99 patterns/pages-front.php:409
+msgid "this link"
+msgstr ""
+
+#: patterns/hero-with-title-alt.php:15 patterns/pages-about.php:15
+msgid "It's story time!"
+msgstr ""
+
+#: patterns/hero-with-title.php:15 patterns/pages-services.php:15
+msgid "Experience what we offer"
+msgstr ""
+
+#: patterns/hero.php:11 patterns/pages-front.php:11
+msgid "Let's Build"
+msgstr ""
+
+#: patterns/hero.php:15 patterns/pages-front.php:15
+msgid "an Amazing"
+msgstr ""
+
+#: patterns/hero.php:19 patterns/pages-front.php:19
+msgid "Site!"
+msgstr ""
+
+#: patterns/hero.php:19 patterns/pages-front.php:19
+msgid "Blog!"
+msgstr ""
+
+#: patterns/hero.php:19 patterns/pages-front.php:19
+msgid "Gallery!"
+msgstr ""
+
+#: patterns/hero.php:32 patterns/pages-front.php:32
+msgid "The Design"
+msgstr ""
+
+#: patterns/hero.php:36 patterns/pages-front.php:36
+msgid ""
+"Make a pleasant visual experience for your website visitors. Keep ideas "
+"&amp; design in harmony."
+msgstr ""
+
+#: patterns/hero.php:47 patterns/pages-front.php:47
+msgid "The Idea"
+msgstr ""
+
+#: patterns/hero.php:51 patterns/pages-front.php:51
+msgid ""
+"There should be a general idea of what you're trying to pitch to your "
+"audience. Keep it simple."
+msgstr ""
+
+#: patterns/hero.php:71 patterns/pages-front.php:71
+msgid "Showcase"
+msgstr ""
+
+#: patterns/hero.php:75 patterns/pages-front.php:75
+msgid "Immersive Images"
+msgstr ""
+
+#: patterns/hero.php:79 patterns/pages-front.php:79
+msgid ""
+"Try to make meaningful imagery that will grab the attention of your website "
+"visitors. And don't forget"
+msgstr ""
+
+#: patterns/hero.php:79 patterns/pages-front.php:79
+msgid "your call to action!"
+msgstr ""
+
+#: patterns/pages-about.php:53 patterns/pages-front.php:129
+#: patterns/partners.php:41
+msgid "100+ Partners Worldwide"
+msgstr ""
+
+#: patterns/pages-about.php:71 patterns/title-alt.php:15
+msgid "Have"
+msgstr ""
+
+#: patterns/pages-about.php:71 patterns/title-alt.php:15
+msgid "Great Quote"
+msgstr ""
+
+#: patterns/pages-about.php:71 patterns/title-alt.php:15
+msgid "Amazing Quote"
+msgstr ""
+
+#: patterns/pages-about.php:71 patterns/title-alt.php:15
+msgid "Epic Quote"
+msgstr ""
+
+#: patterns/pages-about.php:71 patterns/title-alt.php:15
+msgid "That You Want to Share?"
+msgstr ""
+
+#: patterns/pages-about.php:75 patterns/title-alt.php:19
+msgid "Inspire to Act"
+msgstr ""
+
+#: patterns/pages-about.php:137 patterns/services-with-stats.php:15
+msgid "The Stats"
+msgstr ""
+
+#: patterns/pages-about.php:152 patterns/pages-front.php:235
+#: patterns/services-with-spinner.php:103 patterns/services-with-stats.php:30
+msgid "Years of Experience"
+msgstr ""
+
+#: patterns/pages-about.php:158 patterns/pages-about.php:180
+#: patterns/pages-services.php:39 patterns/services-with-images.php:27
+#: patterns/services-with-stats.php:36 patterns/services-with-stats.php:58
+msgid ""
+"add information in chunks. That way your website users will find it easier "
+"to digest content on your site"
+msgstr ""
+
+#: patterns/pages-about.php:170 patterns/services-with-stats.php:48
+msgid "K+"
+msgstr ""
+
+#: patterns/pages-about.php:174 patterns/services-with-stats.php:52
+msgid "Users Worldwide"
+msgstr ""
+
+#: patterns/pages-about.php:202 patterns/services-with-stats.php:80
+msgid "Protentional Growth"
+msgstr ""
+
+#: patterns/pages-about.php:208 patterns/services-with-stats.php:86
+msgid ""
+"That way your website users will find it easier to digest content on your "
+"site"
+msgstr ""
+
+#: patterns/pages-about.php:228 patterns/team.php:10
+msgid "Meet the team"
+msgstr ""
+
+#: patterns/pages-about.php:232 patterns/team.php:14
+msgid "Show Some Face"
+msgstr ""
+
+#: patterns/pages-about.php:240 patterns/pages-about.php:258
+#: patterns/pages-about.php:276 patterns/team.php:22 patterns/team.php:40
+#: patterns/team.php:58
+msgid "LinkedIn"
+msgstr ""
+
+#: patterns/pages-about.php:246 patterns/team.php:28
+msgid "Tim Lemmony"
+msgstr ""
+
+#: patterns/pages-about.php:250 patterns/team.php:32
+msgid "The Manger"
+msgstr ""
+
+#: patterns/pages-about.php:264 patterns/team.php:46
+msgid "Jenny Lemmony"
+msgstr ""
+
+#: patterns/pages-about.php:268 patterns/team.php:50
+msgid "The Designer"
+msgstr ""
+
+#: patterns/pages-about.php:282 patterns/team.php:64
+msgid "Boi Lemmony"
+msgstr ""
+
+#: patterns/pages-about.php:286 patterns/team.php:68
+msgid "The CEO"
+msgstr ""
+
+#: patterns/pages-contacts.php:15 patterns/services-with-contacts.php:15
+msgid "Let’s Create Epic Projects"
+msgstr ""
+
+#: patterns/pages-contacts.php:33 patterns/pages-contacts.php:97
+#: patterns/services-with-contacts.php:33
+#: patterns/services-with-contacts.php:97
+msgid "Drop us a message"
+msgstr ""
+
+#: patterns/pages-contacts.php:37 patterns/services-with-contacts.php:37
+msgid ""
+"Have a question? Now you can ask us using this handy-dandy email address"
+msgstr ""
+
+#: patterns/pages-contacts.php:41 patterns/services-with-contacts.php:41
+msgid "Hello@brand.com"
+msgstr ""
+
+#: patterns/pages-contacts.php:65 patterns/services-with-contacts.php:65
+msgid "Visit us"
+msgstr ""
+
+#: patterns/pages-contacts.php:69 patterns/services-with-contacts.php:69
+msgid "Need a visit? Now you can with this handy-dandy location"
+msgstr ""
+
+#: patterns/pages-contacts.php:73 patterns/services-with-contacts.php:73
+msgid "Go to Google maps"
+msgstr ""
+
+#: patterns/pages-contacts.php:101 patterns/services-with-contacts.php:101
+msgid "Need to talk it out? Well now you can with this handy-dandy number"
+msgstr ""
+
+#: patterns/pages-contacts.php:105 patterns/services-with-contacts.php:105
+msgid "+00 4777 007 23"
+msgstr ""
+
+#: patterns/pages-front.php:152 patterns/services-with-spinner.php:20
+msgid "Tell the Story About Your Mighty Endeavors"
+msgstr ""
+
+#: patterns/pages-front.php:156 patterns/services-with-spinner.php:24
+msgid "With"
+msgstr ""
+
+#: patterns/pages-front.php:156 patterns/services-with-spinner.php:24
+msgid "words"
+msgstr ""
+
+#: patterns/pages-front.php:156 patterns/services-with-spinner.php:24
+msgid "images"
+msgstr ""
+
+#: patterns/pages-front.php:156 patterns/services-with-spinner.php:24
+msgid "that speak to your customers"
+msgstr ""
+
+#: patterns/pages-front.php:173 patterns/services-with-spinner.php:41
+msgid "Icon block"
+msgstr ""
+
+#: patterns/pages-front.php:177 patterns/services-with-spinner.php:45
+msgid ""
+"The theme has icon blocks that will allow you to add icons and boost the "
+"visual experience of the website."
+msgstr ""
+
+#: patterns/pages-front.php:191 patterns/services-with-spinner.php:59
+msgid "Fast &amp; Lightweight"
+msgstr ""
+
+#: patterns/pages-front.php:195 patterns/services-with-spinner.php:63
+msgid ""
+"Lemmony is built with a native block builder, which makes it a fast and "
+"lightweight theme."
+msgstr ""
+
+#: patterns/pages-front.php:221 patterns/services-with-spinner.php:89
+msgid "Patterns Included"
+msgstr ""
+
+#: patterns/pages-front.php:245 patterns/services-with-spinner.php:113
+msgid "k+"
+msgstr ""
+
+#: patterns/pages-front.php:249 patterns/services-with-spinner.php:117
+msgid "Clients Use Our Themes"
+msgstr ""
+
+#: patterns/pages-front.php:468 patterns/testimonials.php:12
+msgid "Testimonials &amp; Reviews"
+msgstr ""
+
+#: patterns/pages-front.php:472 patterns/testimonials.php:16
+msgid "Some Love From Clients"
+msgstr ""
+
+#: patterns/pages-front.php:487 patterns/testimonials.php:31
+msgid "Jenny Pink"
+msgstr ""
+
+#: patterns/pages-front.php:491 patterns/testimonials.php:35
+msgid "From Rating"
+msgstr ""
+
+#: patterns/pages-front.php:497 patterns/testimonials.php:41
+msgid ""
+"I got the feeling that the website is trying to tell me something. Do you "
+"have the same feeling?"
+msgstr ""
+
+#: patterns/pages-front.php:513 patterns/testimonials.php:57
+msgid "Tommy Blue"
+msgstr ""
+
+#: patterns/pages-front.php:517 patterns/testimonials.php:61
+msgid "From Testimonials"
+msgstr ""
+
+#: patterns/pages-front.php:523 patterns/testimonials.php:67
+msgid "The theme is free"
+msgstr ""
+
+#: patterns/pages-front.php:523 patterns/testimonials.php:67
+msgid ""
+", so it's like a treat for me. So the real question will be, will this theme "
+"have pro functionality?"
+msgstr ""
+
+#: patterns/pages-front.php:539 patterns/post-content.php:17
+#: patterns/testimonials.php:83
+msgid "Tim Lemons"
+msgstr ""
+
+#: patterns/pages-front.php:543 patterns/testimonials.php:87
+msgid "From Reviews"
+msgstr ""
+
+#: patterns/pages-front.php:549 patterns/testimonials.php:93
+msgid "From the perspective of"
+msgstr ""
+
+#: patterns/pages-front.php:549 patterns/testimonials.php:93
+msgid "Virtual Reality"
+msgstr ""
+
+#: patterns/pages-front.php:549 patterns/testimonials.php:93
+msgid ""
+"The Lemmony theme is very Virtual. So it was the main point why I chose it."
+msgstr ""
+
+#: patterns/pages-front.php:560 patterns/services-with-video.php:10
+msgid "There is always more to show"
+msgstr ""
+
+#: patterns/pages-front.php:564 patterns/services-with-video.php:14
+msgid "Placeholder For Your Future Ideas"
+msgstr ""
+
+#: patterns/pages-front.php:575 patterns/services-with-video.php:25
+msgid "Made with love"
+msgstr ""
+
+#: patterns/pages-front.php:587 patterns/services-with-video.php:37
+msgid "This theme is free"
+msgstr ""
+
+#: patterns/pages-front.php:599 patterns/pages-services.php:219
+#: patterns/sercices-with-grid.php:115 patterns/services-with-video.php:49
+msgid "Growing user base"
+msgstr ""
+
+#: patterns/pages-front.php:611 patterns/services-with-video.php:61
+msgid "Pretty snappy"
+msgstr ""
+
+#: patterns/pages-front.php:733 patterns/query.php:11
+msgid "Useful Articles"
+msgstr ""
+
+#: patterns/pages-front.php:737 patterns/query.php:15
+msgid "From The Blog"
+msgstr ""
+
+#: patterns/pages-front.php:752 patterns/query-large-with-sidebar.php:23
+#: patterns/query-large-with-sidebar2.php:19 patterns/query-large.php:21
+#: patterns/query.php:30
+msgid "By"
+msgstr ""
+
+#: patterns/pages-gallery.php:23
+msgid ""
+"Handpick the best of your offerings and let them do the talking. Try to "
+"showcase the theme from the best possible angle. Keep them interested."
+msgstr ""
+
+#: patterns/pages-gallery.php:72
+msgid "Black Remote"
+msgstr ""
+
+#: patterns/pages-gallery.php:116
+msgid "Full Moon in Grayscale"
+msgstr ""
+
+#: patterns/pages-services.php:24 patterns/services-with-images.php:12
+msgid "Services &amp; products"
+msgstr ""
+
+#: patterns/pages-services.php:28 patterns/services-with-images.php:16
+msgid "Showcase Your Products &amp; Services"
+msgstr ""
+
+#: patterns/pages-services.php:54 patterns/services-with-images.php:42
+msgid "Awesome Service"
+msgstr ""
+
+#: patterns/pages-services.php:58 patterns/services-with-images.php:46
+msgid ""
+"Strive to make a pleasant visual experience for your future website visitors."
+msgstr ""
+
+#: patterns/pages-services.php:63 patterns/services-with-images.php:51
+msgid "Explore services"
+msgstr ""
+
+#: patterns/pages-services.php:86 patterns/services-with-images.php:74
+msgid "Useful Products"
+msgstr ""
+
+#: patterns/pages-services.php:90 patterns/services-with-images.php:78
+msgid ""
+"Try to keep your ideas and design in harmony. And don't forget to stay "
+"creative!"
+msgstr ""
+
+#: patterns/pages-services.php:116 patterns/sercices-with-grid.php:12
+msgid "Trusted by 15k+ Users Worldwide"
+msgstr ""
+
+#: patterns/pages-services.php:151 patterns/sercices-with-grid.php:47
+msgid "Patterns included"
+msgstr ""
+
+#: patterns/pages-services.php:155 patterns/pages-services.php:177
+#: patterns/pages-services.php:201 patterns/pages-services.php:223
+#: patterns/sercices-with-grid.php:51 patterns/sercices-with-grid.php:73
+#: patterns/sercices-with-grid.php:97 patterns/sercices-with-grid.php:119
+msgid ""
+"A short explanation about the service you can offer to your future clients."
+msgstr ""
+
+#: patterns/pages-services.php:173 patterns/sercices-with-grid.php:69
+msgid "Lightning fast"
+msgstr ""
+
+#: patterns/pages-services.php:197 patterns/sercices-with-grid.php:93
+msgid "It's responsive"
+msgstr ""
+
+#: patterns/pages-services.php:241 patterns/sercices-with-grid.php:137
+msgid "Free theme"
+msgstr ""
+
+#: patterns/pages-services.php:245 patterns/sercices-with-grid.php:141
+msgid "A short explanation about the service."
+msgstr ""
+
+#: patterns/pages-services.php:269 patterns/sercices-with-steps.php:11
+msgid "How it works"
+msgstr ""
+
+#: patterns/pages-services.php:273 patterns/sercices-with-steps.php:15
+msgid "Show Your Clients the Right Steps"
+msgstr ""
+
+#: patterns/pages-services.php:284 patterns/sercices-with-steps.php:26
+msgid "Start with One"
+msgstr ""
+
+#: patterns/pages-services.php:288 patterns/pages-services.php:302
+#: patterns/pages-services.php:316 patterns/pages-services.php:330
+#: patterns/sercices-with-steps.php:30 patterns/sercices-with-steps.php:44
+#: patterns/sercices-with-steps.php:58 patterns/sercices-with-steps.php:72
+msgid "Show steps needed for growth, the less the easier on the eye."
+msgstr ""
+
+#: patterns/pages-services.php:298 patterns/sercices-with-steps.php:40
+msgid "Then proceed to Dos"
+msgstr ""
+
+#: patterns/pages-services.php:312 patterns/sercices-with-steps.php:54
+msgid "Hello from Japan - San"
+msgstr ""
+
+#: patterns/pages-services.php:326 patterns/sercices-with-steps.php:68
+msgid "This is Quatre"
+msgstr ""
+
+#: patterns/post-content.php:9
+msgid "A Large Title"
+msgstr ""
+
+#: patterns/post-content.php:13
+msgid ""
+"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo "
+"ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis "
+"parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, "
+"pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec "
+"pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, "
+"rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede "
+"mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper "
+"nisi."
+msgstr ""
+
+#: patterns/post-content.php:17
+msgid ""
+"Procrastination in just an exceptional sense of understanding about when "
+"things should actually happen."
+msgstr ""
+
+#: patterns/post-content.php:21
+msgid "The Smaller Title"
+msgstr ""
+
+#: patterns/post-content.php:25 patterns/post-content.php:71
+msgid ""
+"Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat "
+"vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, "
+"feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque "
+"rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur "
+"ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, "
+"tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing "
+"sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit "
+"id, lorem. Maecenas nec odio et ante tincidunt tempus."
+msgstr ""
+
+#: patterns/post-content.php:32
+msgid "make a great dot"
+msgstr ""
+
+#: patterns/post-content.php:36
+msgid "Great way"
+msgstr ""
+
+#: patterns/post-content.php:36
+msgid "to make a point"
+msgstr ""
+
+#: patterns/post-content.php:40
+msgid "A well-sorted"
+msgstr ""
+
+#: patterns/post-content.php:40
+msgid "fact"
+msgstr ""
+
+#: patterns/post-content.php:44
+msgid "A very"
+msgstr ""
+
+#: patterns/post-content.php:44
+msgid "informative black spot"
+msgstr ""
+
+#: patterns/post-content.php:52
+msgid "Start with"
+msgstr ""
+
+#: patterns/post-content.php:52
+msgid "One"
+msgstr ""
+
+#: patterns/post-content.php:56
+msgid "Then proceed to"
+msgstr ""
+
+#: patterns/post-content.php:56
+msgid "Dos"
+msgstr ""
+
+#: patterns/post-content.php:60
+msgid "Hello from Japan –"
+msgstr ""
+
+#: patterns/post-content.php:60
+msgid "San"
+msgstr ""
+
+#: patterns/post-content.php:64
+msgid "This is"
+msgstr ""
+
+#: patterns/post-content.php:64
+msgid "Quatre"
+msgstr ""
+
+#: patterns/post-content.php:76
+msgid ""
+"If life gives you lemons.. make an elaborate corporate lemon juice pyramid "
+"scheme."
+msgstr ""
+
+#: patterns/post-content.php:77
+msgid "Lemmony Meadow"
+msgstr ""
+
+#: patterns/post-content.php:83 patterns/post-content.php:111
+msgid "Image by Matteo-vella at Unsplash."
+msgstr ""
+
+#: patterns/post-content.php:89
+msgid "The image on the left"
+msgstr ""
+
+#: patterns/post-content.php:93
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a orci "
+"bibendum, egestas quam et, mollis massa. Nam id diam et lacus facilisis "
+"viverra in quis metus. Donec nibh mi, porttitor scelerisque molestie ac, "
+"pharetra vitae arcu. Morbi sollicitudin, arcu non dignissim luctus, risus "
+"massa rhoncus dolor, ut accumsan diam nulla sit amet neque. Etiam quam nibh, "
+"porta"
+msgstr ""
+
+#: patterns/post-content.php:101
+msgid "The image on the right"
+msgstr ""
+
+#: patterns/post-content.php:105
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a orci "
+"bibendum, egestas quam et, mollis massa. Nam id diam et lacus facilisis "
+"viverra in quis metus. Donec nibh mi, porttitor scelerisque molestie ac, "
+"pharetra vitae arcu. Morbi sollicitudin, arcu non dignissim luctus, risus "
+"massa rhoncus dolor, ut accumsan diam nulla sit amet neque. Etiam quam nibh, "
+"porta ac diam maximus, porta sagittis ex. Cras ac lectus sit amet orci "
+"sodales molestie. Morbi interdum lectus in porta pharetra."
+msgstr ""
+
+#: patterns/sidebar.php:11
+msgid "Can't find something?"
+msgstr ""
+
+#: patterns/sidebar.php:19
+msgid "About The Author"
+msgstr ""
+
+#: patterns/sidebar.php:27
+msgid "As far as I can remember"
+msgstr ""
+
+#: patterns/sidebar.php:27
+msgid ""
+"Lemons always helped me to stay motivated, especially when I applied two "
+"slices on my eyes. A blog author should always carry an small hammer at all "
+"times. It's an au-thor thing, trust me."
+msgstr ""
+
+#: patterns/sidebar.php:39
+msgid "Fresh Articles"
+msgstr ""
+
+#: patterns/sidebar.php:63
+msgid "Keep it social"
+msgstr ""
+
+#: patterns/sidebar.php:77
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar.php:85
+msgid "Tags"
+msgstr ""

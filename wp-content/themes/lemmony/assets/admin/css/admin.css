@@ -1,0 +1,431 @@
+/*
+ * Lemmony Dashboard
+ */
+.lemmony-dash {
+    width: 1260px;
+    max-width: 100%;
+}
+
+@media (max-width: 1500px) {
+    .lemmony-dash {
+        width: 100%;
+    }
+}
+
+.lemmony-dash-content {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    padding: 38px 30px
+}
+
+@media (max-width: 1200px) {
+    .lemmony-dash-content {
+        flex-direction: column;
+        padding: 30px 15px
+    }
+}
+
+.lemmony-dash,
+.lemmony-dash p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.lemmony-dash-col {
+    position: relative;
+    flex: 50%;
+}
+
+.lemmony-dash p {
+    margin: 0;
+    margin-top: 8px;
+}
+
+.lemmony-dash img {
+    max-width: 100%;
+}
+
+.lemmony-dash h1,
+.lemmony-dash h2 {
+    font-size: 24px;
+    margin-top: 0;
+    margin-bottom: 32px;
+    font-weight: bold;
+    padding: 0;
+    line-height: 1.2;
+}
+
+.lemmony-dash strong {
+    font-weight: bold;
+    line-height: 1.6;
+}
+
+.lemmony-dash a {
+    color: inherit;
+}
+
+.lemmony-dash-question {
+    background-color: #ffffff;
+    padding: 24px 32px;
+    margin-bottom: 24px;
+    border-radius: 16px;
+}
+
+.lemmony-dash .mt-0 {
+    margin-top: 0px;
+}
+
+.lemmony-dash .mt-32 {
+    margin-top: 32px;
+}
+
+.opacity-hover {
+    transition: all 0.4s ease-out;
+}
+
+.opacity-hover:hover {
+    opacity: 0.8;
+}
+
+.lemmony-dash-link {
+    display: flex;
+    gap: 24px;
+    margin-top: 32px;
+    text-decoration: none;
+}
+
+.lemmony-dash-link strong {
+    font-size: 20px;
+}
+
+.lemmony-dash-link-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+    width: 68px;
+    height: 68px;
+    background-color: #ffffff;
+}
+
+.lemmony-dash-warning {
+    color: #b00505;
+}
+
+.lemmony-dash-childs {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+.lemmony-dash-child__item {
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+    border-radius: 16px;
+    position: relative;
+    overflow: hidden;
+    gap: 32px;
+}
+
+.lemmony-dash-child__item h3 {
+    margin: 0;
+}
+
+.lemmony-dash-child__item p {
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.lemmony-dash-child__image {
+    line-height: 0;
+}
+
+.lemmony-dash-child__image img {
+    width: 160px;
+    height: 160px;
+    object-fit: cover;
+    transition: 0.3s all ease;
+}
+
+.lemmony-version {
+    display: inline-flex;
+    border: 1px solid #7C7C7C;
+    border-radius: 24px;
+    padding: 4px 12px;
+    position: absolute;
+    top: 2px; right: 0;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+
+/*
+ * Lemmony notices
+ */ 
+.lemmony-notice-large {
+    display: flex;
+    gap: 24px;
+    position: relative;
+    padding: 32px;
+    background-color: #ffffff;
+    border-radius: 16px;
+    border-width: 0px;
+    margin: 0px 0 32px;
+}
+
+.lemmony-notice-large .notice-dismiss {
+    display: none;
+}
+
+.lemmony-notice__svg {
+    width: 24px;
+    height: 24px;
+}
+
+.lemmony-notice__svg-small {
+    position: absolute;
+    top: -10px; right: -10px;
+    width: 20px;
+    height: 20px;
+    background-color: #ffffff;
+    border-radius: 100px;
+    border: 4px solid #ffffff;
+}
+
+.lemmony-notice__iconbox {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    background-color: #F4F4F4;
+    border-radius: 15px;
+    width: 48px;
+    height: 48px;
+}
+
+.lemmony-notice__title {
+    margin: 0;
+    margin-top: 0!important;
+}
+
+.lemmony-notice__description strong {
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.lemmony-notice-large .lemmony-notice__buttons,
+.lemmony-notice-large .lemmony-notice__buttons-text {
+    margin-top: 24px;
+}
+
+.lemmony-notice__buttons-text svg {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    bottom: -4px;
+    margin-right: 5px;
+}
+
+.lemmony-notice__buttons-text button {
+    transition: all 0.4s ease-out;
+    background-color: transparent;
+    padding: 0;
+    border-width: 0;
+    font-weight: 600;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.lemmony-notice__buttons-text button:hover {
+    opacity: 0.7;
+}
+
+.lemmony-dash .lemmony-dash-child__button,
+.lemmony-notice-large .lemmony-notice__button.button {
+    transition: all 0.4s ease-out;
+    padding: 12px 16px;
+    line-height: 1;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 16px;
+    border-width: 0px;
+}
+
+.lemmony-notice__button.button-primary {
+    background-color: #2356DA;
+}
+
+.lemmony-notice__button.button-primary:hover,
+.lemmony-notice__button.button-primary:focus {
+    background-color: #1645c0;
+}
+
+.lemmony-notice__button.button:before {
+    vertical-align: middle;
+    margin: 0px 5px 0 -2px;
+}
+
+.lemmony-notice__manual {
+    display: none;
+    margin-top: 10px;
+    background-color: #f7f7f7;
+    padding: 15px 25px;
+    border-radius: 12px;
+}
+
+.lemmony-notice__manual.is-active {
+    display: inline-block;
+}
+
+.lemmony-notice__manual h4 {
+    font-size: 14px;
+    margin-top: 0px;
+    margin-bottom: 4px;
+}
+
+.lemmony-notice-large .lemmony-notice__manual {
+    margin-top: 0;
+}
+
+.lemmony-notice-large .lemmony-notice__manual h4 {
+    font-size: inherit;
+    font-weight: bold;
+}
+
+
+/* Notice - Companion */
+body.appearance_page_lemmony .lemmony-notice-install {
+    display: none;
+}
+
+body.appearance_page_lemmony .lemmony-dash .lemmony-notice-install {
+    display: flex;
+}
+
+.lemmony-notice:not(.lemmony-notice-large) {
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+
+
+/* Notice - Import */
+.lemmony-notice-import-unavailable .lemmony-notice__iconbox,
+.lemmony-notice-import-unavailable .lemmony-notice__title,
+.lemmony-notice-import-unavailable .lemmony-notice__description,
+.lemmony-notice-import-unavailable .lemmony-notice__buttons {
+    opacity: 0.5;
+    pointer-events: none
+}
+
+.lemmony-dash .lemmony-dash-child__button.button-primary,
+.lemmony-notice-import .lemmony-notice__button.button-primary,
+.lemmony-notice-import-unavailable .lemmony-notice__button.button-primary {
+    background-color: #2C2C2C;
+}
+
+.lemmony-dash .lemmony-dash-child__button.button-primary:hover,
+.lemmony-notice-import .lemmony-notice__button.button-primary:hover,
+.lemmony-notice-import-unavailable .lemmony-notice__button.button-primary:focus {
+    background-color: #202020;
+}
+
+.lemmony-notice-import-done .lemmony-notice__buttons-text{
+    opacity: 0.7;
+}
+
+
+/* Notice - Update */
+.lemmony-notice-update .lemmony-notice__iconbox {
+    background-color: rgba(35, 86, 218, 0.08);
+}
+
+
+/* Notice - Warning */
+.lemmony-notice-warning .lemmony-notice__iconbox {
+    background-color: rgb(218 35 35 / 8%);
+}
+
+
+/* Notice - Ready */
+.lemmony-notice-done {
+    border: 1px solid rgba(6, 164, 89, 0.5);
+}
+
+.lemmony-notice-done .lemmony-notice__iconbox {
+    background-image: url(../../media/dashboard-theme-ready.png);
+    background-size: cover;
+}
+
+.lemmony-notice-done .lemmony-notice__svg {
+    display: none;
+}
+
+
+/* Notice - Review */
+.lemmony-notice-review .lemmony-notice__iconbox {
+    background-image: url(../../media/dashboard-theme-review.png);
+    background-size: cover;
+}
+
+.lemmony-notice-review .lemmony-notice__svg {
+    display: none;
+}
+
+.lemmony-notice-review .lemmony-notice__button.button-primary {
+    background-color: #fab905ab;
+    color: #1d2327;
+    border-color: transparent;
+}
+
+.lemmony-notice-review .lemmony-notice__button.button-primary:hover {
+    background-color: #fab905;
+}
+
+.lemmony-notice-review .lemmony-notice__button.button-primary:focus {
+    box-shadow: none;
+}
+
+.lemmony-notice-review .lemmony-notice__button.button-secondary {
+    background-color: transparent;
+    color: #2C2C2C;
+}
+
+
+/* Notice - Responsive */
+@media (max-width: 600px) {
+    .lemmony-notice-large .lemmony-notice {
+        padding-left: 32px;
+    }
+
+    .lemmony-notice-large .lemmony-notice__svg {
+        position: relative;
+        left: 0px;
+        margin-bottom: 32px;
+    }
+}
+
+
+/* Changelog tabs */
+.lemmony-tabs {
+    display: inline-flex;
+    gap: 25px;
+}
+
+.lemmony-tabs span {
+    cursor: pointer;
+}
+
+.lemmony-tabs .active {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.lemmony-tabs-content {
+    display: none;
+}
+
+.lemmony-tabs-content.active {
+    display: block;
+}

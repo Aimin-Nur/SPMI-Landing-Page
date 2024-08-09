@@ -1,0 +1,55 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "lemmony-companion/icon",
+  "version": "1.0",
+  "title": "Icon",
+  "category": "media",
+  "description": "SVG icon by Lemmony",
+  "keywords": [
+    "icon",
+    "svg",
+    "lemmony",
+    "shufflehound"
+  ],
+  "attributes": {
+    "icon": {
+      "type": "string",
+      "default": "star"
+    },
+    "iconPack": {
+      "type": "string",
+      "default": "light"
+    },
+    "iconContent": {
+      "type": "string",
+      "source": "html",
+      "selector": ".lemmony-icon-wrapper",
+      "default": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><path d='M7.657,29.819c-0.208,0-0.414-0.064-0.588-0.191c-0.294-0.214-0.45-0.571-0.404-0.933l1.085-8.678L1.77,13.633 c-0.249-0.266-0.333-0.646-0.221-0.993c0.113-0.346,0.405-0.604,0.763-0.673l8.589-1.65l4.224-7.659 c0.352-0.638,1.399-0.638,1.751,0l4.224,7.659l8.589,1.65c0.358,0.069,0.65,0.327,0.763,0.673c0.112,0.347,0.027,0.727-0.222,0.993 l-5.979,6.383l1.085,8.679c0.045,0.361-0.109,0.719-0.404,0.933c-0.294,0.216-0.682,0.252-1.013,0.097L16,26.011l-7.918,3.714 C7.946,29.788,7.801,29.819,7.657,29.819z M4.469,13.589l5.061,5.403c0.203,0.217,0.299,0.513,0.262,0.808l-0.918,7.344 l6.701-3.143c0.27-0.127,0.58-0.127,0.85,0l6.701,3.143L22.208,19.8c-0.037-0.295,0.06-0.591,0.263-0.808l5.06-5.403l-7.269-1.396 c-0.292-0.056-0.544-0.239-0.688-0.499L16,5.212l-3.575,6.482c-0.143,0.26-0.395,0.443-0.687,0.499L4.469,13.589z'/></svg>"
+    }
+  },
+  "example": {
+    "attributes": {
+      "icon": "star"
+    }
+  },
+  "supports": {
+    "anchor": true,
+    "align": true,
+    "color": {
+      "background": true
+    },
+    "typography": {
+      "fontSize": true,
+      "lineHeight": false
+    },
+    "spacing": {
+      "padding": true,
+      "margin": true
+    }
+  },
+  "textdomain": "lemmony-companion",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

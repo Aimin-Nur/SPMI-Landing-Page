@@ -1,0 +1,157 @@
+/*
+Theme Name: Celestium
+Theme URI: https://effethemes.com/themes/celestium-wordpress-theme/
+Author: Effe Themes
+Author URI: https://effethemes.com/
+Description: Celestium is a cutting-edge multipurpose corporate WordPress theme designed for modern businesses seeking a sleek and professional online presence. Whether you're a corporate entity, freelancer, digital agency, or eCommerce platform, Celestium offers a versatile and clean design that highlights your services, portfolio, and team with elegance and sophistication. Crafted with a focus on intuitiveness and modern aesthetics, Celestium is packed with features that cater to all market niches. Its responsive design ensures a seamless experience across all devices, enhancing user engagement and satisfaction. Celestium stands out with its user-friendly interface, making it accessible for users of all levels, from seasoned professionals to complete beginners. The theme includes 15+ block patterns, 6 FSE Templates, and 10 Template Parts, allowing you to build a stunning corporate site just the way you want. Key block patterns include Hero Sections, Featured Services, Team Showcases, Portfolio Galleries, Testimonials, Blog Highlights, Call to Action sections, Pricing Tables, Contact Forms, and more. Each element is fully responsive, ensuring your site looks perfect on any device.
+Requires at least: 6.0
+Tested up to: 6.5
+Requires PHP: 5.7
+Version: 1.0.5
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: celestium
+Tags: block-patterns, custom-logo, full-site-editing, full-width-template, e-commerce, portfolio, blog, grid-layout, one-column, two-columns, translation-ready, custom-header
+*/
+
+/* ================= > General Styles < ================= */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--wp--preset--color--custom-background-primary);
+}
+
+a {
+  /* text-decoration: none; */
+  transition: all 0.25s ease-in-out;
+}
+
+a:hover {
+  color: var(--wp--preset--color--custom-primary);
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+mark {
+  padding: 0 32px;
+  border-radius: 50px;
+  background-color: transparent !important; // For background animation
+}
+
+.full-width-image,
+.full-width-image > img {
+  width: 100% !important;
+}
+
+.hero-fluent-bg {
+  position: absolute;
+  top: 20px;
+}
+
+:where(.wp-site-blocks) > * {
+  margin-block-start: 0;
+}
+
+/* ================= > Cursor < ================= */
+
+#adaptive-cursor {
+  align-items: center;
+  border-radius: 50%;
+  display: flex;
+  height: 0;
+  justify-content: center;
+  padding: 5px;
+  pointer-events: none;
+  position: fixed;
+  transform: translate(-50%, -50%);
+  transition: color 0.5s ease;
+  width: 0;
+  z-index: 1000;
+}
+
+/* ================= > Header < ================= */
+
+.wp-block-site-title > a {
+  text-decoration: none;
+}
+
+.wp-block-navigation:not(.has-background) .wp-block-navigation__submenu-container {
+  border: 0 !important;
+  border-top: 2px solid var(--wp--preset--color--custom-primary) !important;
+}
+
+.wp-block-navigation-item:hover {
+  color: var(--wp--preset--color--custom-primary) !important;
+}
+
+.header-search-icon > div > button {
+  background: transparent;
+  padding: 0;
+}
+
+/* ================= > Blog < ================= */
+
+.wp-block-button__link {
+  background: var(--wp--preset--color--custom-primary);
+}
+
+input,
+textarea {
+  background: var(--wp--preset--color--custom-background-secondary);
+  color: #fff !important;
+}
+
+/* ================= > Footer < ================= */
+
+.footer-links > li > a {
+  text-decoration: none;
+}
+
+/* ================= > Media Queries < ================= */
+
+@media (max-width: 1024px) {
+  .wp-block-columns {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+
+  .wp-block-navigation__responsive-container:not(.hidden-by-default):not(.is-menu-open) .wp-block-navigation__responsive-container-close,
+  .wp-block-navigation__responsive-container-open:not(.always-shown),
+  .wp-block-navigation__responsive-container:not(.hidden-by-default):not(.is-menu-open) {
+    display: none;
+  }
+
+  .wp-block-navigation__responsive-container-open:not(.always-shown) {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+
+  .wp-block-navigation__container {
+    --navigation-layout-justification-setting: flex-start !important;
+    --navigation-layout-justify: flex-start !important;
+  }
+
+  #adaptive-cursor {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .hero-buttons,
+  .footer-columns {
+    place-items: flex-start !important;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+}

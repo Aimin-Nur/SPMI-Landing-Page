@@ -1,0 +1,11 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 1,
+	"name": "wpgetapi/endpoint-selector",
+	"title": "WPGetAPI",
+	"category": "widgets",
+	"description": "Insert an endpoint you have created with WPGetAPI.",
+	"keywords": [ "api", "wpgetapi", "endpoint" ],
+	"textdomain": "wpgetapi",
+	"editorScript": "file:./index.js"
+}

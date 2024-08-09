@@ -1,0 +1,81 @@
+/*
+ * Editor
+ */
+body.editor-styles-wrapper a {
+    text-decoration: none;
+}
+
+div.editor-styles-wrapper .lemmony-disable-block,
+body.editor-styles-wrapper .lemmony-disable-block {
+    opacity: 0.3;
+}
+
+.editor-styles-wrapper div .lemmony-disable-block {
+    display: flex;
+}
+
+.editor-styles-wrapper .lemmony-animation {
+    animation: var(--lemmony-animation-name) 1s ease-out both;
+}
+
+.editor-styles-wrapper .lemmony-typing-data.hidden {
+    display: inline;
+}
+
+.editor-styles-wrapper .lemmony-typing-data.hidden span {
+    display: none;
+}
+
+.editor-styles-wrapper .lemmony-typing-data.hidden span:first-child {
+    display: inline;
+}
+
+.editor-styles-wrapper .lemmony-typing-suffix:before {
+    content: " | "!important;
+}
+
+.editor-styles-wrapper a {
+    text-decoration: none;
+}
+
+.editor-styles-wrapper {
+    --wp--preset--font-size--normal: var(--wp--preset--font-size--small);
+    --wp--preset--font-size--huge: 4.5rem;
+}
+
+
+/* Hero auto slider - block */
+.editor-styles-wrapper .splide:not(.is-initialized) {
+    line-height: 0;
+    visibility: visible;
+}
+
+.editor-styles-wrapper .splide:not(.is-initialized) img {
+    aspect-ratio: 1/1;
+    max-width: 100%;
+}
+
+.editor-styles-wrapper .splide:not(.is-initialized)[data-aspect-ratio="16:9"] img { aspect-ratio: 16/9; }
+.editor-styles-wrapper .splide:not(.is-initialized)[data-aspect-ratio="5:4"] img { aspect-ratio: 5/4; }
+.editor-styles-wrapper .splide:not(.is-initialized)[data-aspect-ratio="4:3"] img { aspect-ratio: 4/3; }
+.editor-styles-wrapper .splide:not(.is-initialized)[data-aspect-ratio="9:16"] img { aspect-ratio: 9/16; }
+.editor-styles-wrapper .splide:not(.is-initialized)[data-aspect-ratio="4:5"] img { aspect-ratio: 4/5; }
+.editor-styles-wrapper .splide:not(.is-initialized)[data-aspect-ratio="3:4"] img { aspect-ratio: 3/4; }
+
+.editor-styles-wrapper .splide:not(.is-initialized) ul {
+    list-style-type: none;
+    padding-left: 0;
+    margin-top: 0;
+}
+
+.editor-styles-wrapper .splide:not(.is-initialized) .splide__list {
+    display: block;
+}
+
+.editor-styles-wrapper .splide:not(.is-initialized) li:not(:first-child) {
+    display: none;
+}
+
+.editor-styles-wrapper .splide:not(.is-initialized) .splide__progress__bar {
+    width: 100%;
+}

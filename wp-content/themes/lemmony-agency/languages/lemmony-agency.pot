@@ -1,0 +1,849 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions.php:27
+msgid "Lemmony Agency Patterns"
+msgstr ""
+
+#: patterns/accordion-side.php:19 patterns/pages-front.php:775
+msgid "Here are some frequently asked questions"
+msgstr ""
+
+#: patterns/accordion-side.php:23 patterns/hero-side-services.php:29
+#: patterns/hero-with-counter.php:43 patterns/pages-about.php:93
+#: patterns/pages-about.php:188 patterns/pages-about.php:339
+#: patterns/pages-about.php:415 patterns/pages-front.php:317
+#: patterns/pages-front.php:779 patterns/services-group.php:39
+#: patterns/services-group.php:115 patterns/services-with-images.php:50
+msgid ""
+"Don’t shy away from using this helpful block to guide your website users to "
+"useful pages."
+msgstr ""
+
+#: patterns/accordion-side.php:28 patterns/pages-front.php:784
+msgid "Read more Q&amp;A"
+msgstr ""
+
+#: patterns/accordion-side.php:41 patterns/accordion.php:33
+#: patterns/pages-about.php:459 patterns/pages-front.php:797
+msgid "Is Lemmony WordPress theme free to use?"
+msgstr ""
+
+#: patterns/accordion-side.php:42 patterns/accordion-side.php:48
+#: patterns/accordion-side.php:54 patterns/accordion-side.php:60
+#: patterns/accordion-side.php:66 patterns/accordion.php:28
+#: patterns/accordion.php:34 patterns/accordion.php:40
+#: patterns/accordion.php:46 patterns/accordion.php:52
+#: patterns/pages-about.php:454 patterns/pages-about.php:460
+#: patterns/pages-about.php:466 patterns/pages-about.php:472
+#: patterns/pages-about.php:478 patterns/pages-front.php:798
+#: patterns/pages-front.php:804 patterns/pages-front.php:810
+#: patterns/pages-front.php:816 patterns/pages-front.php:822
+msgid ""
+"Don’t shy away from using this helpful block to guide your website users to "
+"useful pages. Be the guide that they deserve!"
+msgstr ""
+
+#: patterns/accordion-side.php:47 patterns/accordion.php:27
+#: patterns/pages-about.php:453 patterns/pages-front.php:803
+msgid "How many patterns does this theme have?"
+msgstr ""
+
+#: patterns/accordion-side.php:53 patterns/accordion.php:39
+#: patterns/pages-about.php:465 patterns/pages-front.php:809
+msgid "Will this theme will have future updates?"
+msgstr ""
+
+#: patterns/accordion-side.php:59 patterns/accordion.php:45
+#: patterns/pages-about.php:471 patterns/pages-front.php:815
+msgid "What is a “Child theme”?"
+msgstr ""
+
+#: patterns/accordion-side.php:65 patterns/pages-front.php:821
+msgid "Can I use Lemmony theme for my clients?"
+msgstr ""
+
+#: patterns/accordion.php:12 patterns/pages-about.php:310
+#: patterns/pages-about.php:438 patterns/services-group.php:10
+msgid "Check the Most Important Features"
+msgstr ""
+
+#: patterns/accordion.php:19 patterns/hero.php:28 patterns/pages-about.php:445
+#: patterns/pages-front.php:28 patterns/sidebar.php:32
+msgid "Explore site"
+msgstr ""
+
+#: patterns/accordion.php:51 patterns/pages-about.php:477
+msgid "Can I use Lemmony Theme for my clients?"
+msgstr ""
+
+#: patterns/counters.php:15 patterns/pages-about.php:41
+msgid "Years of Experience"
+msgstr ""
+
+#: patterns/counters.php:21 patterns/pages-about.php:47
+msgid "K+"
+msgstr ""
+
+#: patterns/counters.php:25 patterns/pages-about.php:51
+msgid "Users Worldwide"
+msgstr ""
+
+#: patterns/counters.php:41 patterns/pages-about.php:67
+msgid "Potential Growth"
+msgstr ""
+
+#: patterns/cta-alt.php:11 patterns/pages-front.php:517
+msgid "Have A Price For Every Plan Out There"
+msgstr ""
+
+#: patterns/cta-alt.php:23 patterns/pages-front.php:529
+msgid "It's always wise"
+msgstr ""
+
+#: patterns/cta-alt.php:23 patterns/pages-front.php:529
+msgid ""
+"to add information in chunks. That way your website users will find it "
+"easier to digest content on your site."
+msgstr ""
+
+#: patterns/cta-alt.php:29 patterns/pages-front.php:535
+msgid "Check all pricing options"
+msgstr ""
+
+#: patterns/cta-four.php:16 patterns/pages-front.php:166
+msgid "About Company"
+msgstr ""
+
+#: patterns/cta-four.php:28 patterns/pages-front.php:178
+msgid "Our"
+msgstr ""
+
+#: patterns/cta-four.php:28 patterns/pages-front.php:178
+msgid "Pricing"
+msgstr ""
+
+#: patterns/cta-four.php:40 patterns/pages-front.php:190
+msgid "Read Reviews"
+msgstr ""
+
+#: patterns/cta-four.php:52 patterns/pages-front.php:202
+msgid "How It Works"
+msgstr ""
+
+#: patterns/footer.php:12
+msgid "Ready to Build Your Next"
+msgstr ""
+
+#: patterns/footer.php:12
+msgid "Site?"
+msgstr ""
+
+#: patterns/footer.php:19
+msgid "Download theme"
+msgstr ""
+
+#: patterns/footer.php:40
+msgid "WordPress"
+msgstr ""
+
+#: patterns/footer.php:40
+msgid "Block Builder"
+msgstr ""
+
+#: patterns/footer.php:40
+msgid "Theme."
+msgstr ""
+
+#: patterns/footer.php:52
+msgid "Useful Links"
+msgstr ""
+
+#: patterns/footer.php:56 patterns/hero-with-list.php:11
+#: patterns/pages-front.php:211
+msgid "About us"
+msgstr ""
+
+#: patterns/footer.php:60
+msgid "Services"
+msgstr ""
+
+#: patterns/footer.php:64
+msgid "Gallery"
+msgstr ""
+
+#: patterns/footer.php:68
+msgid "Blog Articles"
+msgstr ""
+
+#: patterns/footer.php:78
+msgid "Contact us"
+msgstr ""
+
+#: patterns/footer.php:82
+msgid "Contact us page"
+msgstr ""
+
+#: patterns/footer.php:86
+msgid "hello@company.com"
+msgstr ""
+
+#: patterns/footer.php:90
+msgid "+77&nbsp; 700 877 39"
+msgstr ""
+
+#: patterns/footer.php:100
+msgid "Socials"
+msgstr ""
+
+#: patterns/footer.php:104
+msgid "Twitter"
+msgstr ""
+
+#: patterns/footer.php:108
+msgid "Youtube"
+msgstr ""
+
+#: patterns/footer.php:112
+msgid "Instagram"
+msgstr ""
+
+#: patterns/footer.php:130
+msgid "© 2023. All rights reserved."
+msgstr ""
+
+#: patterns/footer.php:136
+msgid "Theme developed by"
+msgstr ""
+
+#: patterns/footer.php:136
+msgid "Shufflehound"
+msgstr ""
+
+#: patterns/header.php:35
+msgid "Hire us"
+msgstr ""
+
+#: patterns/hero-bottom.php:11 patterns/pages-about.php:11
+msgid "The Story About Your Amazing Company"
+msgstr ""
+
+#: patterns/hero-bottom.php:21 patterns/pages-about.php:21
+msgid "It's always wise to"
+msgstr ""
+
+#: patterns/hero-bottom.php:21 patterns/pages-about.php:21
+msgid "add information in chunks."
+msgstr ""
+
+#: patterns/hero-bottom.php:21 patterns/pages-about.php:21
+msgid ""
+"That way your website users will find it easier to digest content on your "
+"site."
+msgstr ""
+
+#: patterns/hero-cover.php:11 patterns/pages-about.php:487
+msgid "Grow Your Business With Us"
+msgstr ""
+
+#: patterns/hero-cover.php:15 patterns/pages-about.php:491
+msgid "Next level solutions with Lemmony Agency"
+msgstr ""
+
+#: patterns/hero-cover.php:20 patterns/pages-about.php:496
+msgid "Get started"
+msgstr ""
+
+#: patterns/hero-side-services.php:21 patterns/pages-about.php:85
+msgid "The motivation"
+msgstr ""
+
+#: patterns/hero-side-services.php:25 patterns/pages-about.php:89
+msgid "Epic Company Value Proposition Block"
+msgstr ""
+
+#: patterns/hero-side-services.php:47 patterns/pages-about.php:111
+msgid "Friendly community"
+msgstr ""
+
+#: patterns/hero-side-services.php:51 patterns/pages-about.php:115
+msgid ""
+"Have a question? Now you can ask us using this handy-dandy email address."
+msgstr ""
+
+#: patterns/hero-side-services.php:71 patterns/pages-about.php:135
+msgid "Theme feature"
+msgstr ""
+
+#: patterns/hero-side-services.php:75 patterns/pages-about.php:139
+msgid "Show the steps required for growth, the less the easier on the eye."
+msgstr ""
+
+#: patterns/hero-wide.php:36 patterns/pages-front.php:148
+msgid "15k+ clients worldwide use our products"
+msgstr ""
+
+#: patterns/hero-wide.php:41 patterns/pages-front.php:153
+msgid "Read client reviews"
+msgstr ""
+
+#: patterns/hero-with-counter.php:18 patterns/pages-front.php:292
+msgid "15k+ clients"
+msgstr ""
+
+#: patterns/hero-with-counter.php:22 patterns/pages-front.php:296
+msgid "Worldwide company"
+msgstr ""
+
+#: patterns/hero-with-counter.php:35 patterns/pages-front.php:309
+msgid "The counters"
+msgstr ""
+
+#: patterns/hero-with-counter.php:39 patterns/pages-front.php:313
+msgid "Showcase The Most Important Numbers"
+msgstr ""
+
+#: patterns/hero-with-counter.php:53 patterns/pages-front.php:327
+msgid "Hours of experience"
+msgstr ""
+
+#: patterns/hero-with-counter.php:69 patterns/pages-front.php:343
+msgid "Recent growth"
+msgstr ""
+
+#: patterns/hero-with-list.php:15 patterns/pages-front.php:215
+msgid "Tell the Story About Your Mighty Endeavors"
+msgstr ""
+
+#: patterns/hero-with-list.php:19 patterns/pages-front.php:219
+msgid ""
+"The more you tell about your service or project, the easier your clients' "
+"decision will be."
+msgstr ""
+
+#: patterns/hero-with-list.php:37 patterns/pages-front.php:237
+msgid "The Design"
+msgstr ""
+
+#: patterns/hero-with-list.php:41 patterns/pages-front.php:241
+msgid ""
+"Make a pleasant visual experience for your visitors. Keep your ideas and "
+"design in balance."
+msgstr ""
+
+#: patterns/hero-with-list.php:61 patterns/pages-front.php:261
+msgid "The Idea"
+msgstr ""
+
+#: patterns/hero-with-list.php:65 patterns/pages-front.php:265
+msgid ""
+"There should be a general idea of what you're trying to pitch to your "
+"audience. Keep it simple."
+msgstr ""
+
+#: patterns/hero-with-title.php:11 patterns/pages-front.php:443
+msgid "Inspire to take action"
+msgstr ""
+
+#: patterns/hero-with-title.php:15 patterns/pages-front.php:447
+msgid "Have Some"
+msgstr ""
+
+#: patterns/hero-with-title.php:15 patterns/pages-front.php:447
+msgid "Great Quote"
+msgstr ""
+
+#: patterns/hero-with-title.php:15 patterns/pages-front.php:447
+msgid "Epic Quote"
+msgstr ""
+
+#: patterns/hero-with-title.php:15 patterns/pages-front.php:447
+msgid "Interesting Quote"
+msgstr ""
+
+#: patterns/hero-with-title.php:15 patterns/pages-front.php:447
+msgid "That You Want to Share"
+msgstr ""
+
+#: patterns/hero-with-title.php:27 patterns/pages-front.php:459
+msgid "Tim Lemon"
+msgstr ""
+
+#: patterns/hero-with-title.php:31 patterns/pages-front.php:463
+msgid "Company CEO"
+msgstr ""
+
+#: patterns/hero.php:18 patterns/pages-front.php:18
+msgid "A Block-tastic WordPress Agency"
+msgstr ""
+
+#: patterns/hero.php:22 patterns/pages-about.php:162
+#: patterns/pages-about.php:377 patterns/pages-front.php:22
+#: patterns/services-group.php:77 patterns/services-with-images.php:24
+msgid ""
+"Make a pleasant visual experience for your website visitors. Try to keep "
+"your ideas and design in balance."
+msgstr ""
+
+#: patterns/hero.php:35 patterns/pages-front.php:35
+msgid "Play movie"
+msgstr ""
+
+#: patterns/pages-about.php:148 patterns/services-with-images.php:10
+msgid "Products &amp; Services"
+msgstr ""
+
+#: patterns/pages-about.php:158 patterns/services-with-images.php:20
+msgid "Service One"
+msgstr ""
+
+#: patterns/pages-about.php:168 patterns/pages-about.php:194
+#: patterns/pages-about.php:345 patterns/pages-about.php:383
+#: patterns/pages-about.php:421 patterns/services-group.php:45
+#: patterns/services-group.php:83 patterns/services-group.php:121
+#: patterns/services-with-images.php:30 patterns/services-with-images.php:56
+msgid "Example button"
+msgstr ""
+
+#: patterns/pages-about.php:184 patterns/services-with-images.php:46
+msgid "Awesome Product"
+msgstr ""
+
+#: patterns/pages-about.php:219 patterns/services-list.php:21
+msgid "Search Engine Optimization"
+msgstr ""
+
+#: patterns/pages-about.php:223 patterns/pages-about.php:257
+#: patterns/pages-about.php:291 patterns/pages-front.php:82
+#: patterns/pages-front.php:98 patterns/pages-front.php:114
+#: patterns/services-list.php:25 patterns/services-list.php:59
+#: patterns/services-list.php:93 patterns/services.php:30
+#: patterns/services.php:46 patterns/services.php:62
+msgid ""
+"A short explanation about the service you can offer your future clients."
+msgstr ""
+
+#: patterns/pages-about.php:230 patterns/pages-about.php:264
+#: patterns/pages-about.php:298 patterns/services-list.php:32
+#: patterns/services-list.php:66 patterns/services-list.php:100
+msgid "More"
+msgstr ""
+
+#: patterns/pages-about.php:253 patterns/services-list.php:55
+msgid "Website Design"
+msgstr ""
+
+#: patterns/pages-about.php:287 patterns/services-list.php:89
+msgid "Branding"
+msgstr ""
+
+#: patterns/pages-about.php:314 patterns/services-group.php:14
+msgid ""
+"The more you tell about your service or project, the easier your client's "
+"decision will be!"
+msgstr ""
+
+#: patterns/pages-about.php:335 patterns/services-group.php:35
+msgid "Friendly support"
+msgstr ""
+
+#: patterns/pages-about.php:373 patterns/services-group.php:73
+msgid "Made with love"
+msgstr ""
+
+#: patterns/pages-about.php:411 patterns/services-group.php:111
+msgid "Infinity animations"
+msgstr ""
+
+#: patterns/pages-blog.php:11
+msgid "Home"
+msgstr ""
+
+#: patterns/pages-blog.php:15
+msgid "/"
+msgstr ""
+
+#: patterns/pages-blog.php:19
+msgid "Blog"
+msgstr ""
+
+#: patterns/pages-blog.php:24
+msgid "In Blog"
+msgstr ""
+
+#: patterns/pages-blog.php:45 patterns/pages-front.php:850
+#: patterns/pages-front.php:883 patterns/query-split.php:30
+#: patterns/query-split.php:63
+msgid "By"
+msgstr ""
+
+#: patterns/pages-front.php:63 patterns/services.php:11
+msgid "What we do"
+msgstr ""
+
+#: patterns/pages-front.php:67 patterns/services.php:15
+msgid "We Help Our Clients Spread The Roots"
+msgstr ""
+
+#: patterns/pages-front.php:78 patterns/services.php:26
+msgid "Branding design"
+msgstr ""
+
+#: patterns/pages-front.php:94 patterns/services.php:42
+msgid "SEO for WordPress"
+msgstr ""
+
+#: patterns/pages-front.php:110 patterns/services.php:58
+msgid "Plugin integration"
+msgstr ""
+
+#: patterns/pages-front.php:354 patterns/testimonials.php:12
+msgid "Some Love From Our Clients"
+msgstr ""
+
+#: patterns/pages-front.php:361 patterns/pages-front.php:387
+#: patterns/testimonials.php:19 patterns/testimonials.php:45
+msgid "“"
+msgstr ""
+
+#: patterns/pages-front.php:361 patterns/testimonials.php:19
+msgid "I got the feeling"
+msgstr ""
+
+#: patterns/pages-front.php:361 patterns/testimonials.php:19
+msgid ""
+"that the website is trying to tell me something. Do you have the same "
+"feeling? Is it just me? ”"
+msgstr ""
+
+#: patterns/pages-front.php:373 patterns/testimonials.php:31
+msgid "Jenny Pink"
+msgstr ""
+
+#: patterns/pages-front.php:377 patterns/testimonials.php:35
+msgid "From Rating"
+msgstr ""
+
+#: patterns/pages-front.php:387 patterns/testimonials.php:45
+msgid "The theme is free"
+msgstr ""
+
+#: patterns/pages-front.php:387 patterns/testimonials.php:45
+msgid ""
+", so it's like a treat for me. So the real question is, will this theme have "
+"pro functionality? ”"
+msgstr ""
+
+#: patterns/pages-front.php:399 patterns/testimonials.php:57
+msgid "Tina Blue"
+msgstr ""
+
+#: patterns/pages-front.php:403 patterns/testimonials.php:61
+msgid "From Testimonials"
+msgstr ""
+
+#: patterns/pages-front.php:413 patterns/testimonials.php:71
+msgid "“From the perspective of"
+msgstr ""
+
+#: patterns/pages-front.php:413 patterns/testimonials.php:71
+msgid "Virtual Reality"
+msgstr ""
+
+#: patterns/pages-front.php:413 patterns/testimonials.php:71
+msgid "Lemmony theme is very Virtual. The main point why I chose it. ”"
+msgstr ""
+
+#: patterns/pages-front.php:425 patterns/post-content-rounded.php:17
+#: patterns/testimonials.php:83
+msgid "Tim Lemons"
+msgstr ""
+
+#: patterns/pages-front.php:429 patterns/testimonials.php:87
+msgid "From Reviews"
+msgstr ""
+
+#: patterns/pages-front.php:503
+msgid "15+ Partners Worldwide"
+msgstr ""
+
+#: patterns/pages-front.php:554 patterns/pricing.php:16
+msgid "$0"
+msgstr ""
+
+#: patterns/pages-front.php:558 patterns/pricing.php:20
+msgid "Free"
+msgstr ""
+
+#: patterns/pages-front.php:562 patterns/pricing.php:24
+msgid "Best for casual use"
+msgstr ""
+
+#: patterns/pages-front.php:567 patterns/pricing.php:29
+msgid "Get now"
+msgstr ""
+
+#: patterns/pages-front.php:581 patterns/pages-front.php:657
+#: patterns/pages-front.php:727 patterns/pricing.php:43
+#: patterns/pricing.php:119 patterns/pricing.php:189
+msgid "Multiple"
+msgstr ""
+
+#: patterns/pages-front.php:581 patterns/pages-front.php:657
+#: patterns/pages-front.php:727 patterns/pricing.php:43
+#: patterns/pricing.php:119 patterns/pricing.php:189
+msgid "fonts included"
+msgstr ""
+
+#: patterns/pages-front.php:595 patterns/pages-front.php:755
+#: patterns/pricing.php:57 patterns/pricing.php:217
+msgid "All patterns"
+msgstr ""
+
+#: patterns/pages-front.php:595 patterns/pages-front.php:685
+#: patterns/pages-front.php:755 patterns/pricing.php:57
+#: patterns/pricing.php:147 patterns/pricing.php:217
+msgid "included"
+msgstr ""
+
+#: patterns/pages-front.php:609 patterns/pricing.php:71
+msgid "Custom support"
+msgstr ""
+
+#: patterns/pages-front.php:621 patterns/pricing.php:83
+msgid "Popular"
+msgstr ""
+
+#: patterns/pages-front.php:630 patterns/pricing.php:92
+msgid "$9"
+msgstr ""
+
+#: patterns/pages-front.php:634 patterns/pricing.php:96
+msgid "Personal"
+msgstr ""
+
+#: patterns/pages-front.php:638 patterns/pricing.php:100
+msgid "For intermediate users"
+msgstr ""
+
+#: patterns/pages-front.php:643 patterns/pages-front.php:713
+#: patterns/pricing.php:105 patterns/pricing.php:175
+msgid "Buy now"
+msgstr ""
+
+#: patterns/pages-front.php:671 patterns/pages-front.php:741
+#: patterns/pricing.php:133 patterns/pricing.php:203
+msgid "Lemmony"
+msgstr ""
+
+#: patterns/pages-front.php:671 patterns/pages-front.php:741
+#: patterns/pricing.php:133 patterns/pricing.php:203
+msgid "icon block"
+msgstr ""
+
+#: patterns/pages-front.php:685 patterns/pricing.php:147
+msgid "Some patterns"
+msgstr ""
+
+#: patterns/pages-front.php:700 patterns/pricing.php:162
+msgid "$29"
+msgstr ""
+
+#: patterns/pages-front.php:704 patterns/pricing.php:166
+msgid "Enterprise"
+msgstr ""
+
+#: patterns/pages-front.php:708 patterns/pricing.php:170
+msgid "For business users"
+msgstr ""
+
+#: patterns/pages-front.php:830 patterns/query-split.php:10
+msgid "Useful Articles"
+msgstr ""
+
+#: patterns/pages-front.php:834 patterns/query-split.php:14
+msgid "From The Blog"
+msgstr ""
+
+#: patterns/post-content-rounded.php:9
+msgid "A Large Title"
+msgstr ""
+
+#: patterns/post-content-rounded.php:13
+msgid ""
+"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo "
+"ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis "
+"parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, "
+"pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec "
+"pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, "
+"rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede "
+"mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper "
+"nisi."
+msgstr ""
+
+#: patterns/post-content-rounded.php:17
+msgid ""
+"Procrastination in just an exceptional sense of understanding about when "
+"things should actually happen."
+msgstr ""
+
+#: patterns/post-content-rounded.php:21
+msgid "The Smaller Title"
+msgstr ""
+
+#: patterns/post-content-rounded.php:25 patterns/post-content-rounded.php:71
+msgid ""
+"Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat "
+"vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, "
+"feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque "
+"rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur "
+"ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, "
+"tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing "
+"sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit "
+"id, lorem. Maecenas nec odio et ante tincidunt tempus."
+msgstr ""
+
+#: patterns/post-content-rounded.php:32
+msgid "Bullet points"
+msgstr ""
+
+#: patterns/post-content-rounded.php:32
+msgid "make a great dot"
+msgstr ""
+
+#: patterns/post-content-rounded.php:36
+msgid "Great way"
+msgstr ""
+
+#: patterns/post-content-rounded.php:36
+msgid "to make a point"
+msgstr ""
+
+#: patterns/post-content-rounded.php:40
+msgid "A well-sorted"
+msgstr ""
+
+#: patterns/post-content-rounded.php:40
+msgid "fact"
+msgstr ""
+
+#: patterns/post-content-rounded.php:44
+msgid "A very"
+msgstr ""
+
+#: patterns/post-content-rounded.php:44
+msgid "informative black spot"
+msgstr ""
+
+#: patterns/post-content-rounded.php:52
+msgid "Start with"
+msgstr ""
+
+#: patterns/post-content-rounded.php:52
+msgid "One"
+msgstr ""
+
+#: patterns/post-content-rounded.php:56
+msgid "Then proceed to"
+msgstr ""
+
+#: patterns/post-content-rounded.php:56
+msgid "Dos"
+msgstr ""
+
+#: patterns/post-content-rounded.php:60
+msgid "Hello from Japan –"
+msgstr ""
+
+#: patterns/post-content-rounded.php:60
+msgid "San"
+msgstr ""
+
+#: patterns/post-content-rounded.php:64
+msgid "This is"
+msgstr ""
+
+#: patterns/post-content-rounded.php:64
+msgid "Quatre"
+msgstr ""
+
+#: patterns/post-content-rounded.php:76
+msgid ""
+"If life gives you lemons.. make an elaborate corporate lemon juice pyramid "
+"scheme."
+msgstr ""
+
+#: patterns/post-content-rounded.php:77
+msgid "Lemmony Meadow"
+msgstr ""
+
+#: patterns/post-content-rounded.php:83 patterns/post-content-rounded.php:111
+msgid "Image by Matteo-vella at Unsplash."
+msgstr ""
+
+#: patterns/post-content-rounded.php:89
+msgid "The image on the left"
+msgstr ""
+
+#: patterns/post-content-rounded.php:93
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a orci "
+"bibendum, egestas quam et, mollis massa. Nam id diam et lacus facilisis "
+"viverra in quis metus. Donec nibh mi, porttitor scelerisque molestie ac, "
+"pharetra vitae arcu. Morbi sollicitudin, arcu non dignissim luctus, risus "
+"massa rhoncus dolor, ut accumsan diam nulla sit amet neque. Etiam quam nibh, "
+"porta"
+msgstr ""
+
+#: patterns/post-content-rounded.php:101
+msgid "The image on the right"
+msgstr ""
+
+#: patterns/post-content-rounded.php:105
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a orci "
+"bibendum, egestas quam et, mollis massa. Nam id diam et lacus facilisis "
+"viverra in quis metus. Donec nibh mi, porttitor scelerisque molestie ac, "
+"pharetra vitae arcu. Morbi sollicitudin, arcu non dignissim luctus, risus "
+"massa rhoncus dolor, ut accumsan diam nulla sit amet neque. Etiam quam nibh, "
+"porta ac diam maximus, porta sagittis ex. Cras ac lectus sit amet orci "
+"sodales molestie. Morbi interdum lectus in porta pharetra."
+msgstr ""
+
+#: patterns/sidebar.php:11
+msgid "Can't find something?"
+msgstr ""
+
+#: patterns/sidebar.php:19
+msgid "About The Author"
+msgstr ""
+
+#: patterns/sidebar.php:27
+msgid "As far as I can remember"
+msgstr ""
+
+#: patterns/sidebar.php:27
+msgid ""
+"Lemons always helped me to stay motivated, especially when I applied two "
+"slices on my eyes. A blog author should always carry an small hammer at all "
+"times. It's an au-thor thing, trust me."
+msgstr ""
+
+#: patterns/sidebar.php:39
+msgid "Fresh Articles"
+msgstr ""
+
+#: patterns/sidebar.php:63
+msgid "Keep it social"
+msgstr ""
+
+#: patterns/sidebar.php:77
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar.php:85
+msgid "Tags"
+msgstr ""

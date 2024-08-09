@@ -1,0 +1,51 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "lemmony-companion/post-featured-image-caption",
+  "version": "1.0",
+  "title": "Post Featured Image Caption",
+  "category": "theme",
+  "description": "Display featured image copyrights (uses image title field) by Lemmony",
+  "keywords": [
+    "post",
+    "featured",
+    "image",
+    "caption",
+    "copyrights",
+    "lemmony",
+    "shufflehound"
+  ],
+  "attributes": {
+    "textAlign": {
+      "type": "string"
+    }
+  },
+  "example": {},
+  "supports": {
+    "anchor": true,
+    "align": false,
+    "html": false,
+    "color": {
+      "background": false
+    },
+    "typography": {
+      "fontSize": true,
+      "lineHeight": true,
+      "__experimentalFontFamily": true,
+      "__experimentalFontWeight": true,
+      "__experimentalFontStyle": true,
+      "__experimentalTextTransform": true,
+      "__experimentalTextDecoration": true,
+      "__experimentalLetterSpacing": true
+    },
+    "spacing": {
+      "padding": true,
+      "margin": true
+    }
+  },
+  "textdomain": "lemmony-companion",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "render": "file:./render.php"
+}
